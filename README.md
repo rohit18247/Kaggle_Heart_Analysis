@@ -10,8 +10,8 @@ Data used has been uploaded. The csv file is named as heart.csv .
 
 Some of the visualizations from the notebook : 
 
-! [This is an image](https://github.com/rohit18247/Kaggle_Heart_Analysis/blob/main/plots/age_vs_fbs.png)
+![](https://github.com/rohit18247/Kaggle_Heart_Analysis/blob/main/plots/age_vs_fbs.png)
 
-! [This is an image](https://github.com/rohit18247/Kaggle_Heart_Analysis/blob/main/plots/boxplot_age_vs_fbs.png)
+![](https://github.com/rohit18247/Kaggle_Heart_Analysis/blob/main/plots/boxplot_age_vs_fbs.png)
 
 
