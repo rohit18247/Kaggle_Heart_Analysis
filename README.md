@@ -8,7 +8,7 @@ further to evaluate the accuracy of the model.
 
 Data used has been uploaded. The csv file is named as heart.csv .
 
-Some of the visualizations from the notebook : 
+Some of the visualizations from the notebook (images with complete labels/axes in notebook - for demonstration purposes only): 
 
 ![](https://github.com/rohit18247/Kaggle_Heart_Analysis/blob/main/plots/age_vs_fbs.png)
 
